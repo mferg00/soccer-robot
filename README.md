@@ -1,4 +1,4 @@
-# soccer-robot-ai
+# soccer-robot
 
 Created for QUT course EGB320, Semester 2, 2019
 
